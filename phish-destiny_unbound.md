@@ -31,8 +31,8 @@ Verse
     At the wheel of a tractor, she was quite an impactor when the road rocks started to slide
            F#                        B                    E                        F#    
    She saw Bill drop his shovel on a pile of gravel as he climbed up out of his ditch
-           F#                   B                             E                     B           F#             
-   She was wonderstruck when he climbed in her truck he said "I've been havin' this everlasting itch
+           F#                   B                              E                     B           F#             
+   She was wonderstruck when he climbed in her truck, he said "I've been havin' this everlasting itch
 
 Chorus
            E                   B     F#            B
@@ -50,11 +50,11 @@ Bridge
            But then she thought twice when he melted her ice, with his passionate eyes she was energized
 
 Verse
-           F#                       B                      C#                       F#                 
+           F#                           B                  C#                       F#                 
        She started the ignition and without permission the two of 'em flew down the dusty road
            F#                           B 
    But the road wasn't finished and the pavement diminished 
-           E                            B                  
+           E                            B                  F#   
       They soared off the edge and they plunged in the sludge
 
 Chorus
