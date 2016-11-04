@@ -22,7 +22,7 @@ Verse
                   Honeymooning down by the Seine
                   E7
             Peter Brown call to say
-                  You can make it O.K.
+          You can make it O.K.
       You can get married in Gibraltar near Spain
 
 Chorus
