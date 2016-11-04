@@ -53,6 +53,7 @@ Chorus
            E
   I am the walrus, goo goo ga joob
 
+(pause)
 Bridge
            B     A     G     F     E
 
