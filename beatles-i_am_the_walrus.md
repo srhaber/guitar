@@ -13,7 +13,7 @@ Verse
            C                                         D
            See how they run like pigs from a gun see how they fly
            A    
-           I'm crying
+       I'm crying
 
            A                     A/G    D/F#    F               G         A      A/G
            Sitting on a cornflake,              waiting for the van to come
