@@ -10,13 +10,13 @@ Intro
 Verse 
            D    Em F#m   Fm Em7   A
       If I give my heart to you I must be sure
-           D Em F#m  Fm    Em7       A                 D    Gm  A  
+           D Em F#m   Fm   Em7       A                 D    Gm  A  
   From the very start that you would love me more than her
   
-           D     Em F#m Fm   Em7          A
-      If I trust in you,  oh please don't run and hide
-           D    Em  F#m Fm   Em7          A                  D7
-      If I love you too,  oh please don't hurt my pride like her
+           D     Em F#m  Fm Em7          A
+      If I trust in you, oh please don't run and hide
+           D    Em  F#m  Fm Em7          A                  D7
+      If I love you too, oh please don't hurt my pride like her
       
 Chorus
                            G         Gm7
