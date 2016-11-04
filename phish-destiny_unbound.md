@@ -21,6 +21,9 @@ Chorus
            E                  B  C#                 F#    
            She's the one for me, we gotta get outta town (2x)
 
+Pre-Verse
+           F#    E F F# (2x)
+
 Verse
            F#                 B               E                  F#                   
            Highway Jill was a daffodil with a cactus sense of pride
@@ -38,7 +41,7 @@ Chorus
            You're the one for me, we gotta get outta town (2x)
 
 Jam
-           F#
+           F#    E F F# (?x)
 
 Bridge
            E                              B                   F#                      B
