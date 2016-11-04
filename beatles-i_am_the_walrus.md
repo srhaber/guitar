@@ -95,5 +95,5 @@ Chorus
            C                                     B7
            Goo goo ga joob ga goo goo ga joob ga jooooob  jooba jooba jooba
            
-           A   G   F   E   D   C   B7 (repeat, fade out)
+           A   G   F   E7   D   C   B7 (repeat, fade out)
 ```
