@@ -8,14 +8,14 @@ Intro
   Cos I've been in love before, and I found that love was more than just holding hands
 
 Verse 
-           D    Em F#m   Fm Em7   A
+           D    Em F#m   Fm Em7   A7
       If I give my heart to you I must be sure
-           D Em F#m   Fm   Em7       A                 D    Gm  A  
+           D Em F#m   Fm   Em7       A7                D    Gm  A  
   From the very start that you would love me more than her
   
-           D     Em F#m  Fm Em7          A
+           D     Em F#m  Fm Em7          A7
       If I trust in you, oh please don't run and hide
-           D    Em  F#m  Fm Em7          A                  D7
+           D    Em  F#m  Fm Em7          A7                 D7
       If I love you too, oh please don't hurt my pride like her
       
 Chorus
@@ -25,9 +25,9 @@ Chorus
   Would be sad if our new love was in vain
   
 Verse
-           D    Em  F#m Fm   Em7     A
+           D    Em  F#m Fm   Em7     A7
       So I hope you see that I would love to love you
-           D   Em   F#m Fm   Em7      A                 D7
+           D   Em   F#m Fm   Em7      A7                D7
            And that she will cry when she learns we are two
 
 Chorus
@@ -37,9 +37,9 @@ Chorus
   Would be sad if our new love was in vain
 
 Verse
-           D    Em  F#m Fm   Em7     A
+           D    Em  F#m Fm   Em7     A7
       So I hope you see that I would love to love you
-           D   Em   F#m Fm   Em7      A                 D
+           D   Em   F#m Fm   Em7      A7                D
            And that she will cry when she learns we are two
            Gm                D     
       If I fell in love with you
