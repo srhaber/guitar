@@ -1,54 +1,71 @@
 # Starman - David Bowie
 
 ```
-Didn't know what time it was the lights were low
-I leaned back on my radio
-Some cat was layin' down some rock 'n' roll 'lotta soul,
-He said
+Intro
+            Bb^7     F^7     (2x)
+      
+Verse
+            Gm                                                   F
+            Didn't know what time it was, the lights were low-oh-oh 
+            F                           C
+            I leaned back on my radio-o-o
+            C                             C7                                  F   Ab  Bb
+            Some cat was layin' down some rock 'n' roll, 'lotta soul he said
 
-Then the loud sound did seem to fade
-Came back like a slow voice on a wave of phase
-That weren't no D.J. that was hazy cosmic jive
+            Gm                                   F
+            Then the loud sound did seem to fa-a-ade
+            F                                              C
+            Came back like a slow voice on a wave of pha-a-ase
+            C                              C7                A     Gadd9
+            That weren't no D.J., that was hazy cosmic jive
 
-There's a starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-He told me:
-Let the children lose it
-Let the children use it
-Let all the children boogie
+Chorus
+            F       Dm                 
+  There's a starman waiting in the sky
+            Am               Am7/G           C
+       He'd like to come and meet us, but he thinks he'd blow our minds
+            F       Dm
+  There's a starman waiting in the sky
+            Am             Am7/G             C                   C7
+       He's told us not to blow it, cause he knows it's all worthwhile, he told me
+            Bb      Bbm               F       D7
+            Let the children lose it, let the children use it
+            Gm          C
+            Let all the children boogie
 
-I had to phone someone so I picked on you
-Hey, that's far out so you heard him too!
-Switch on the TV
-We may pick him up on channel two
+Bridge
+            Bb    F    C    F
+            Bb    F    C
 
-Look out your window I can see his light
-If we can sparkle he may land tonight
-Don't tell your poppa or he'll get us locked up in fright
+Verse
+            Gm                                           F
+            I had to phone someone, so I picked on you-u-u
+            F                                          C
+            Hey, that's far out so you heard him too-o-oo
+            C                        C7                     F    Ab  Bb   
+            Switch on the TV, we may pick him up on channel two
 
-There's a starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-He told me:
-Let the children lose it
-Let the children use it
-Let all the children boogie
+            Gm                                       F
+            Look out your window, I can see his li-i-ight
+            F                                    C
+            If we can sparkle he may land toni-i-ight
+            C                              C7                          A     Gadd9
+            Don't tell your poppa or he'll get us locked up in fright
 
-There's a starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-He told me:
-Let the children lose it
-Let the children use it
-Let all the children boogie
+Chorus (2x)
+            F       Dm                 
+  There's a starman waiting in the sky
+            Am               Am7/G           C
+       He'd like to come and meet us, but he thinks he'd blow our minds
+            F       Dm
+  There's a starman waiting in the sky
+            Am             Am7/G             C                   C7
+       He's told us not to blow it, cause he knows it's all worthwhile, he told me
+            Bb      Bbm               F       D7
+            Let the children lose it, let the children use it
+            Gm          C
+            Let all the children boogie
+             
+Bridge
+            Bb    F    C    F   (repeat, fade out)
 ```
