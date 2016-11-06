@@ -4,7 +4,7 @@
 Intro
            Ebm                              D                       Db      Bbm7
       If I fell in love with you, would you promise to be true, and help me understand
-           Ebm                        D                             E            A
+           Ebm                        D                             Em           A
   Cos I've been in love before, and I found that love was more than just holding hands
 
 Verse 
