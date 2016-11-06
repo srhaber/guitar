@@ -19,9 +19,9 @@ Verse
       If I love you too, oh please don't hurt my pride like her
       
 Chorus
-                           G         Gm7
+                           G         Gm
   Cos I couldn't stand the pain, and I 
-                          D           A
+                          D           A7
   Would be sad if our new love was in vain
   
 Verse
@@ -31,9 +31,9 @@ Verse
            And that she will cry when she learns we are two
 
 Chorus
-                           G         Gm7
+                           G         Gm
   Cos I couldn't stand the pain, and I 
-                          D           A
+                          D           A7
   Would be sad if our new love was in vain
 
 Verse
