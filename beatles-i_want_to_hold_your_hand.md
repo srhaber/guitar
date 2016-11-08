@@ -44,7 +44,7 @@ Verse
           G          D          Em                  B7
      When I say that something, I want to hold your hand
 
-Chorus
+Chorus (first)
 
 Bridge
 
