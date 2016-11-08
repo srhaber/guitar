@@ -36,7 +36,7 @@ Verse
 Bridge
              Gm7               C7           F
        I got arms that long to hold you and keep you by my side
-             D7                             G             Gaug
+             D7                             G             G+
        I got lips that long to kiss you and keep you satisfied, oooh
        
 Verse 
