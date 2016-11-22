@@ -52,7 +52,7 @@ Chorus
        Strawberry Fields, nothing is real
        D              F#         
    And nothing to get hung about
-       D                 A       F#m
+       D                 A       F#m7
        Strawberry Fields forever
        D                 A     
        Strawberry Fields forever      
