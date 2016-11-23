@@ -31,7 +31,7 @@ Verse
        E        E^7         E7   Bm7/E  E  F#m       E               D
        No one I think is in my tree        I mean it must be high or low
        D           E              A                A/G# F#m  F#m7
-       That is you can't you know tune it but it's all  right
+       That is you can't you know tune in but it's all  right
        D         E                  D   A
        That is I think it's not too bad
 
